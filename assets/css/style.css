@@ -5,11 +5,11 @@
 }
 
 .info-container{
-    background: linear-gradient(to bottom, #2078EE, #7CECFF);
+    background: linear-gradient(to bottom, #000000, #2e2e2e);
     display: flex;
     align-items: center;
     flex-flow: column nowrap;
-    width: 250px;
+    width: 20%;
     height: 100vh;
     position: fixed;
     color: white;
@@ -21,9 +21,9 @@
 }
 
 .container{
-    background: linear-gradient(to bottom, #7eb6ff, #e5fafd);
-    margin-left: 226px;
+    margin-left: 20%;
     height: 100vh;
+    width: 80%;
 }
 
 .hide {
