@@ -1,0 +1,1 @@
+O Weather-App é um projeto desenvolvido com HTML, CSS e JavaScript, que utiliza uma API gratuita de previsão do tempo para fornecer informações atualizadas sobre o clima. O aplicativo permite ao usuário consultar a temperatura, condições climáticas e outros dados relevantes de qualquer cidade de forma prática e intuitiva.
